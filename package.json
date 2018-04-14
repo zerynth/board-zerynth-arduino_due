@@ -1,8 +1,8 @@
 {
     "dependencies": {
-        "sys.zerynth.armgcc": "r2.1.0",
-        "sys.zerynth.bossac": "r2.1.0",
-        "vhal.zerynth.armcmx_atmelsam3x": "r2.1.0"
+        "sys.zerynth.armgcc": "r2.1.1",
+        "sys.zerynth.bossac": "r2.1.1",
+        "vhal.zerynth.armcmx_atmelsam3x": "r2.1.1"
     },
     "description": "Add support for Arduino Due",
     "fullname": "board.zerynth.arduino_due",
@@ -21,6 +21,6 @@
     ],
     "repo": "official",
     "title": "Arduino Due Support Package",
-    "version": "r2.1.0",
+    "version": "r2.1.1",
     "whatsnew": ""
 }
