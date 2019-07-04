@@ -1,0 +1,15 @@
+---
+description: Add support for Arduino Due
+fullname: board.zerynth.arduino_due
+info:
+    board: Arduino Due
+    chip_manufacturer: Microchip/Atmel
+    device: sam3x8
+    family_type: ARM Cortex M3
+keywords:
+- arduino
+- board
+- atmel
+- microchip
+title: Arduino Due Support Package
+...
